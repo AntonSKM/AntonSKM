@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonSKM
 - 👀 I’m interested in Music and CS.
 - 🌱 I’m currently learning CS50.
-- 💞️ I’m looking to collaborate on bots.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Instagram @askme_beats
 
 <!---
