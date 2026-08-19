@@ -64,5 +64,5 @@ I'm also open to broader software-engineering roles where product ownership, sys
 
 ## Contact
 
-**LinkedIn:** [Anton S. Kunstmann](https://www.linkedin.com/in/anton-s-kunstmann-094b4b26b/)  
+**LinkedIn:** [Anton S. Kunstmann](https://www.linkedin.com/in/anton-s-kunstmann/)  
 **Email:** anton.s.kunstmann@gmail.com
