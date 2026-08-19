@@ -10,10 +10,10 @@ A lot of my software starts the same way: I encounter a real problem in music pr
 
 ## Selected Engineering Projects
 
-### [TBE Suite — Music Publishing Workflow Automation](https://github.com/AntonSKM/Type-Beat-Empire-Music-Producer-YouTube-Automation)
+### [TBE Suite — Type Beat Publishing Workflow Automation](https://github.com/AntonSKM/Type-Beat-Empire-Music-Producer-YouTube-Automation)
 **FastAPI · React · PostgreSQL · Celery · Redis · FFmpeg · YouTube API**
 
-Full-stack creator-operations platform for media rendering, persistent channel state, synchronization, scheduling and publishing. Built around a real production workload spanning 60+ producer channels.
+Full-stack creator-operations platform for video rendering, persistent channel state, synchronization, scheduling and publishing. Built around a real production workload spanning 60+ producer channels.
 
 ### [Multi-Agent vs. Single-Prompt AI Rap Music Generation](https://github.com/AntonSKM/Multi-Agent-vs-Single-Prompt-AI-Rap-Music)
 **Python · LangGraph · Ollama · Qwen3 · ACE-Step · CLAP · SentenceTransformers · Linux/CUDA**
