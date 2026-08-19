@@ -48,13 +48,13 @@ Authenticated producer workflow web application developed as my final project fo
 
 ## Technologies
 
-**Languages:** Python · C++20 · Java · JavaScript · SQL · HTML/CSS
+**Languages:** Python · Java · JavaScript · C++20 · SQL · HTML/CSS
 
 **Backend & Data:** FastAPI · Flask · Javalin · PostgreSQL · MongoDB · SQLite · Celery · Redis · REST APIs · pandas
 
 **AI & Systems:** LangGraph · Ollama · local/multimodal LLMs · embeddings · Linux · Docker · Git · CUDA/GPU development
 
-**Audio & Media:** JUCE · VST3 · DSP · CMake · FFmpeg · FL Studio · audio engineering
+**Audio & Media:** JUCE · VST3 · DSP · CMake · FFmpeg · FL Studio · music production · audio engineering
 
 ## What I'm Interested In
 
